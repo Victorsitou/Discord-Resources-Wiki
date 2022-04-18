@@ -1,239 +1,239 @@
 ---
-title: Best Discord Bots
+title: Los mejores bots de Discord
 sidebar_position: 2
-description: Discord bot recommendations
+description: Recomendaciones de bots de Discord
 ---
 
-# Best Discord Bots
-## **Moderation**
+# Mejores bots de Discord
+## **Moderación**
 ### **Zeppelin**
-> __Description:__ Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in mind.   <br/>
-__Link(s):__   <br/>
-[Zeppelin Website](https://zeppelin.gg/)   <br/>
+> __Descripción:__ Zeppelin es un bot privado de moderación para Discord, diseñado con servidores grandes y fiabilidad en mente.   <br/>
+__Enlace(s):__   <br/>
+[Página web de Zeppelin](https://zeppelin.gg/)   <br/>
 [Github](https://github.com/Dragory/ZeppelinBot)   <br/>
 [Compendium](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
-[Setup Tool](https://setup-tool.zeppelin.gg)   <br/>
-[Handbook](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
-__Credit(s):__ @106391128718245888 @347727875266576395
+[Herramienta para configurarlo](https://setup-tool.zeppelin.gg)   <br/>
+[Manual](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
+__Crédito(s):__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
-> __Description:__ Multi function, general moderation bot.   <br/>
-__Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
-__Credit(s):__  @220081163660689408 @200987752794292224
+> __Descripción:__ Bot de moderación general, multifunciones  <br/>
+__Enlace:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
+__Crédito(s):__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
-> __Description:__  
-Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
-__Link:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
-__Credit:__ @113156185389092864
+> __Descripción:__  
+Vortex es un bot diseñado para mantener tu servidor seguro y tu equipo de moderación organizado. Su moderación y registro de datos te ayudan a localizar tus miembros y seguir dando responsabilidad a tus moderadores. Sus capacidades de automoderación también le ayudan a filtrar ciertos tipos de comportamiento sin la necesidad de intervención humana, aliviando el trabajo del equipo de moderación. Finalmente, Vortex está diseñado para ser fácil y rápido de usar.   <br/>
+__Enlace:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
+__Crédito:__ @113156185389092864
 
 ### **GearBot**
-> __Description:__ Trustworthy general moderation bot.   <br/>
-__Link(s):__   <br/>
-[GearBot Website](https://gearbot.rocks/)   <br/>
-[Invite GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
-__Credit:__ @106354106196570112
+> __Descripción:__ Bot de moderación fiable.   <br/>
+__Enlace(s):__   <br/>
+[Página web de GearBot](https://gearbot.rocks/)   <br/>
+[Invita a GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
+__Crédito:__ @106354106196570112
 
 
 ### **Fire**
-> __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
-__Link(s):__   <br/>
-[Fire Website](https://getfire.bot/)   <br/>
-[Invite Fire](https://inv.wtf/bot)   <br/>
-__Credit:__ @287698408855044097
+> __Descripción:__ Un buen bot de moderación y utilidad que siempre está actualizado.   <br/>
+__Enlace(s):__   <br/>
+[Página web de Fire](https://getfire.bot/)   <br/>
+[Invita a Fire](https://inv.wtf/bot)   <br/>
+__Crédito:__ @287698408855044097
 
 ### **AutoModerator** 
-> __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
-__Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
-__Credit:__ @223703707118731264 @104425482757357568
+> __Descripción:__ Bot de automoderación general, con botones y desplegables.   <br/>
+__Enlace:__ [Página web de AutoModeración](https://automoderator.app/)   <br/>
+__Crédito:__ @223703707118731264 @104425482757357568
 
 ### **Beemo**
-> __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
-__Link:__ [Website](https://beemo.gg/)   <br/>
-__Credit:__ @192048286331437056
+> __Descripción:__ Beemo es un bot anti-spam que te ayuda a equipar tu servidor con un poderoso algoritmo anti-bots que opera en el fondo para parar raids a tu servidor. El algoritmo anti-bot de Beemo termina con raids de bots automáticamente y los banea de inmediato con un algoritmo de detección que evita usuarios reales.   <br/>
+__Enlace:__ [Página Web](https://beemo.gg/)   <br/>
+__Crédito:__ @192048286331437056
 
 ### **Beemo Helper (addition)**
-> __Description:__ Beemo Helper is designed to help Beemo (https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
-__Link(s):__   <br/>
-[Invite](https://redirects.polar.blue/beemohelper)   <br/>
-__Credit:__ @619284841187246090
+> __Descripción:__ Beemo Helper está diseñado para ayudar a Beemo (https://beemo.gg) con raids de bots. Cuando Beemo detecte una raid, Beemo Helper inmediatamente empezará a banear a los usuarios en la lista de abajo a arriba, duplicando la velocidad de baneos.   <br/>
+__Enlace(s):__   <br/>
+[Invita a Beemo Helper](https://redirects.polar.blue/beemohelper)   <br/>
+__Crédito:__ @619284841187246090
 
 ### **Red Bot**
-> __Description:__ Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable. This is a self-hosted bot – meaning you will need to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot, and more!   <br/>
-__Link:__ [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot) 
+> __Descripción:__ Red es un bot completamente modular; significando que todas sus funciones y comandos pueden ser activados/desactivados a tu antojo, haciéndolo completamente personalizable. Es un bot que tienes que hostear tú; significando que tendrás que hostear y mantener tu propia instancia. Puedes convertir Red en un bot de admins, música, trivia, y más!   <br/>
+__Enlace:__ [Bot Red](https://github.com/Cog-Creators/Red-DiscordBot) 
 
 
 ### **Crosslink**
-> __Description:__ Crosslink is a smart link detection and reputation service built to make link filtering convenient for moderators and community managers. With convenience at the forefront, configuration on Discord is made to be as simple as possible for the end user. Our reputation system takes third parties into account as well as our own local domain database to keep your community safe! 
-__Link(s):__ 
-[Website](https://panleyent.com/crosslink/)   <br/>
-[Invite CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
-[Full Docs](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
-__Credit:__ @249287049482338305
+> __Descripción:__ Crosslink es una detección inteligente de enlaces y servicio de reputación construido para filtrar enlaces pra moderadores y community managers. Con conveniencia en el frente, la configuración en Discord está hecho para ser lo más simple posible para el usuario. Nuestro servicio de reputación también tiene en cuenta terceros además de nuestra propia base de datos para mantener a tu comunidad segura! <br />
+__Enlace(s):__ 
+[Página Web](https://panleyent.com/crosslink/)   <br/>
+[Invita a CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
+[Documentación completa](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
+__Crédito:__ @249287049482338305
 
 
 ### **Safelink** 
-> __Description:__ A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
-__Link:__ [Safelink](https://safelink.gg/)   <br/>
-__Credit:__ @282565295351136256 @684155404078415890
+> __Descripción:__ Un bot que puede detectar una variedad de timos (Timos de Nitro, Steam y muchos más), links explícitos y más con una API interna que utiliza inteligencia artificial para constantemente mejorar detección.   <br/>
+__Enlace:__ [Safelink](https://safelink.gg/)   <br/>
+__Crédito:__ @282565295351136256 @684155404078415890
 
 
 ### **Fish**
-> __Description:__ Fish is a bot made for auto-moderating phishing scam links. It has a few configuration options, like what action to take when a user posts a known scam link and the ability to exempt users/roles from link detection.   <br/>
-__Link(s):__   <br/>
+> __Descripción:__ Fish es un bot hecho para moderar automáticmanete enlaces de timos. Tiene varias opciones de configuración, como qué acción hacer cuando un usuario manda un enlace engañoso conocido y la habilidad de inmunizar usuarios/roles de la detección de enlaces.   <br/>
+__Enlace(s):__   <br/>
 [Github](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
-[Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
-__Credit:__ @255834596766253057
+[Invita a Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
+__Crédito:__ @255834596766253057
 
 ### **OterluBot**
-> __Description:__ A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
-__Link:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
-__Credit:__ @111891236792598528 @352832514819227655
+> __Descripción:__ Un bot de moderación que utiliza IA para detectar y registrar toxicidad contra otro usuario, contenido profano o no seguro. Oferta algunas estadísticas de la salud de tus servidores basados en los registros de toxicidad.  <br/>
+__Enlace:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
+__Crédito:__ @111891236792598528 @352832514819227655
 
 
 ## **ModMail**
 
 ### **Dragory's ModMail** (self-host)
-> __Description:__ Modmail Bot is a bot for Discord that allows users to DM the bot to contact the server's moderators/staff without messaging them individually or pinging them publicly on the server. These DMs get relayed to ModMail threads, channels where staff members can reply to and talk with the user. To the user, the entire process happens in DMs with the bot.   <br/>
-__Link(s):__   <br/>
+> __Descripción:__ Modmail Bot es un bot para Discord que permite a los usuarios mandarle un MD al bot para contactar el equipo de moderación del servidor sin mensajearlos individuamente o mencionarlos públicamente en el servidor. Estos MDs son mandados a un hilo, canales donde miembros del equipo de moderación pueden responser y hablar con el usuario. Paa el usuario, todo el proceso pasa en MDs con el bot.   <br/>
+__Enlace(s):__   <br/>
 [GitHub](https://github.com/Dragory/modmailbot)   <br/>
-[Config Template](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
-__Credit(s):__  @106391128718245888 @200987752794292224
+[Modelo de Configuración](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
+__Crédito(s):__  @106391128718245888 @200987752794292224
 
 ### **Kyb3r's Modmail** (self-host)
-> __Description:__ Modmail is similar to Reddit's ModMail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.   <br/>
-__Link:__ [Kyb3r’s Modmail](https://github.com/kyb3r/modmail)   <br/>
-__Credit:__ @github:kyb3r
+> __Descripción:__ Modmail es similar al bot de Modmail de Reddit, ambos en funcionalidad y objetivo. Funciona como una bandeja de entrada compartida para que miembros de staff comuniquen con sus usuarios.   <br/>
+__Enlace:__ [Kyb3r’s Modmail](https://github.com/kyb3r/modmail)   <br/>
+__Crédito:__ @github:kyb3r
 
 ### **Support Bot** (self-host)
-> __Description:__ A simple and lightweight Discord support/automated help desk!   <br/>
-__Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
-__Credit:__ @524371727812263948
+> __Descripción:__ Una simple y ligera mesa de ayuda automatizada para Discord!   <br/>
+__Enlace:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
+__Crédito:__ @524371727812263948
 
-## **Utility Bots**
+## **Bots de Utilidad**
 ### **OpenDiscordBots**
-> __Description:__ A collection of self-hostable, open-source simple Discord bots.  <br/>
-__Link(s):__   <br/>
+> __Descripción:__ Una colección de bots de código abierto que puedes hostear tú mismo.  <br/>
+__Enlace(s):__   <br/>
 [OpenDiscordBots](https://opendiscordbots.com/)  <br/>
 [GitHub Org](https://github.com/OpenDiscordBots)  <br/>
-__Credit:__ @297045071457681409 @192060404501839872
+__Crédito:__ @297045071457681409 @192060404501839872
 
 ### **RTS Bot**
-> __Description:__ Bot with mental health & wellness resources.   <br/>
-__Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
-__Credit:__  @177886618714243073
+> __Descripción:__ Un bot con recursos de salud mental y bienestar.   <br/>
+__Enlace:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
+__Crédito:__  @177886618714243073
 
 ### **Publisher**
-> __Description:__ auto publishes messages in announcements channels.   <br/>
-__Link:__ [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
-__Credit:__ @255834596766253057
+> __Descripción:__ Auto publica mensajes en el canal de anuncios.   <br/>
+__Enlace:__ [Invita a Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
+__Crédito:__ @255834596766253057
 
 ### **Activities Bot**
-> __Description:__ Starts activities available for voice channels.   <br/>
-__Link:__ [Invite Activities Bot](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
-__Credit:__ @190916650143318016
+> __Descripción:__ Empieza actividades disponibles para canales de voz.   <br/>
+__Enlace:__ [Invita a Activities Bot](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
+__Crédito:__ @190916650143318016
 
 ### **Reaction**
-> __Description:__ Easy-to-use bot to have buttons and dropdowns based reaction roles in your server.  <br/>
-__Link(s):__ <br/>
-[Reaction Docs](https://rr.auttaja.io/)  <br/>
-[Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
-__Credit:__ @109710323094683648
+> __Descripción:__ Un bot fácil de usar para tener botones y desplegables para utilizar para que tus usuarios obtengan roles.  <br/>
+__Enlace(s):__ <br/>
+[Documentación de Reaction](https://rr.auttaja.io/)  <br/>
+[Invita a Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
+__Crédito:__ @109710323094683648
 
 ### **Discord Status** (webhook)
-> __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
-__Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
-__Credit:__ @255834596766253057
+> __Descripción:__ Proporciona actualizaciones de la págiona web del estado de Discord..   <br/>
+__Enlace:__ [Invita a Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
+__Crédito:__ @255834596766253057
 
 ### **Datamining Updates**
-> __Description:__ The bot publishes any authorized commits in [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
-__Link(s):__   <br/>
+> __Descripción:__ El bot publica actualizaciones en [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
+__Enlace(s):__   <br/>
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
-[Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
-[Datamining Website](https://datamining.otter.university/)  <br/>
-__Credit:__ @172557961133162496 @562415519454461962
+[Invita a Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
+[Página Web de Datamining](https://datamining.otter.university/)  <br/>
+__Crédito:__ @172557961133162496 @562415519454461962
 
 ### **Jagrosh's Music Bot** (self-host)
-> __Description:__ A music bot with step to step guide on self hosting.  <br/>
-__Link:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
-__Credit:__ @113156185389092864
+> __Descripción:__ Un bot de música con un tutorial paso a paso de cómo hostearlo.  <br/>
+__Enlace:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
+__Crédito:__ @113156185389092864
 
 ### **Tone Indicator Bot**
-> __Description:__ Find and understand tone indicators.   <br/>
-__Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
-__Credit:__ @173815235243802624
+> __Descripción:__ Encuentra y entiende indicadores de tonos.   <br/>
+__Enlace:__ [Invita a Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
+__Crédito:__ @173815235243802624
  
 ### **AMA (Ask Me Anything)**
-> __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
-__Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
-__Credit:__ @223703707118731264 @104425482757357568
+> __Descripción:__ Ayuda con hostear y manejar entrevistas en Discord.   <br/>
+__Enlace:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
+__Crédito:__ @223703707118731264 @104425482757357568
 
 ### **Suggester**
-> __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
-__Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
-[Suggester Docs](https://suggester.js.org/)  <br/>
-__Credit:__ @327887845270487041 @255834596766253057
+> __Descripción:__ Suggester es un bot que maneja sugerencias para que los adminstradores puedan recibir comentarios de sus usuarios.  <br/>
+__Enlace(s):__ [Invita a Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
+[Documentación de Suggester](https://suggester.js.org/)  <br/>
+__Crédito:__ @327887845270487041 @255834596766253057
 
 ### **NSFW-Toggle**
-> __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
-__Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
-__Credit:__ @255834596766253057
+> __Descripción:__ Se asegura de que NSFW está activado. Útil para móbil, especialmente iOS donde no es posible.  <br/>
+__Enlace:__ [Invita a NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
+__Crédito:__ @255834596766253057
 
 ### **ThreadPersist**
-> __Description:__ A bot that keeps all threads active, unless manually archived.  <br/>
-__Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
+> __Descripción:__ Un bot que ayuda a mantener todos los hilos activos, a no ser que sean archivados manualmente.  <br/>
+__Enlace(s):__ [Invita a ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
 [Self-Host ThreadPersist](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
-__Credit:__ @297045071457681409
+__Crédito:__ @297045071457681409
 
 ### **CleanLeave**
-> __Description:__ Automatically remove user join messages when the user leaves the server.  <br/>
-__Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
-[Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
-__Credit:__ @297045071457681409
+> __Descripción:__ Automáticamente quita mensajes de entrada cuando un usuario se va del servidor.  <br/>
+__Enlace(s):__ [Invita a CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
+[Hostealo tú CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
+__Crédito:__ @297045071457681409
 
 ### **Iris XP**
-> __Description:__ Easy to use, fully customisable XP bot.  <br/>
-__Link:__ [Invite Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
-__Credit:__ @173815235243802624
+> __Descripción:__ Fácil de usar, bot de XP completamente customizable.  <br/>
+__Enlace:__ [Invita a Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
+__Crédito:__ @173815235243802624
 
 ### **Discord Invite Tracker** (self-host)
-> __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
-__Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
-__Credit:__ @422820341791064085
+> __Descripción:__ Traquea invitaciones en tus servidores para saber quién invitó a quién y con qué invitación.  <br/>
+__Enlace:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
+__Crédito:__ @422820341791064085
 
 ### **WidgetBot**
-> __Description:__ Create good looking widgets for your websites.  <br/>
-__Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
-__Credit:__ @github:widgetbot-io
+> __Descripción:__ Crea widgets para tus servidores.  <br/>
+__Enlace:__ [WidgetBot](https://widgetbot.io/)  <br/>
+__Crédito:__ @github:widgetbot-io
 
 ### **Wumplus**
-> __Description:__ Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
-__Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
-__Credit:__ @305647182198079489 @852608147554172928
+> __Descripción:__ Bot de utilidad para cosas que usuarios no pueden hacer, como abrir actividades, bloquear emojis y encontrar juegos.  <br/>
+__Enlace:__ [Invita a Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
+__Crédito:__ @305647182198079489 @852608147554172928
 
 ### **Antouto**
-> __Description:__ Antouto is a bot that lets you get extensive information about discord invites, servers, users, build overrides, and more!  <br/>
-__Link:__ [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
-__Credit:__ @316860714260234243
+> __Descripción:__ Antouto es un bot que te da información extensiva sobre invitaciones, servidores, usuarios y más!  <br/>
+__Enlace:__ [Invita a Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
+__Crédito:__ @316860714260234243
 
 ### **Craig**
-> __Description:__ A bot able to record one or more voice channels or stage channel at the time.  <br/>
-__Link(s):__  <br/> 
+> __Descripción:__ Un bot que puede grabar uno o más canales de voz o escenarios a la vez.  <br/>
+__Enlace(s):__  <br/> 
 [Craig Website](https://craig.chat/home/)  <br/>
-[Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
-__Credit:__ @171244192696238080
+[Invita a Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
+__Crédito:__ @171244192696238080
 
 ### **Tunes Ninja**
-> __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
-__Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
-__Credit:__ @657057112593268756
+> __Descripción:__ Cuando un enlace a una canción sea mandado en un canal, Tunes Ninja mandará un mensaje con la canción en todas las plataformas populares de música.   <br/>
+__Enlace:__ [Página Web de Tunes Ninja](https://tunes.ninja/)   <br/>
+__Crédito:__ @657057112593268756
 
 ### **StatusBot**
-> __Description:__ A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
-__Link:__ [StatusBot](https://www.statusbot.gg/) <br/>
-__Credit:__ @282565295351136256
+> __Descripción:__ Un bot que ayuda a saber el estado de tu bot, además de notificarte cuando incidentes sean detectados. <br/>
+__Enlace:__ [StatusBot](https://www.statusbot.gg/) <br/>
+__Crédito:__ @282565295351136256
 
 ### **Forms**
-> __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
-__Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
-__Credit:__ @316860714260234243
+> __Descripción:__ Crea formularios personalizados para tu servidor y manda respuestas a un canal de tu elección. <br/>
+__Enlace:__ [Demonstración, Documentación y enlace para Invitarlo](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
+__Crédito:__ @316860714260234243
