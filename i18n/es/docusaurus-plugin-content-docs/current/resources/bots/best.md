@@ -44,7 +44,7 @@ __Crédito:__ @287698408855044097
 
 ### **AutoModerator** 
 > __Descripción:__ Bot de automoderación general, con botones y desplegables.   <br/>
-__Enlace:__ [Página web de AutoModeración](https://automoderator.app/)   <br/>
+__Enlace:__ [Página web de AutoModerator](https://automoderator.app/)   <br/>
 __Crédito:__ @223703707118731264 @104425482757357568
 
 ### **Beemo**
